@@ -27,3 +27,7 @@ fdescribe
 ```
 xdescribe
 ```
+
+##### Todo:
+* TypeScript
+* Karma
