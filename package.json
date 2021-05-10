@@ -6,9 +6,12 @@
   "scripts": {
     "test": "jasmine"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "jasmine": "^3.7.0"
+  "author": "iproman",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^3.7.0",
+    "karma": "^6.3.2",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
   }
 }
