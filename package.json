@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jasmine"
   },
+  "repository": {
+    "url": "https://github.com/iproman/bubble-gum"
+  },
   "author": "iproman",
   "license": "MIT",
   "devDependencies": {
