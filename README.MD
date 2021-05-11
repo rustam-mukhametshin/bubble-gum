@@ -11,10 +11,16 @@ npm i bubble-gum
 ## Run tests
 
 ```
-npm run test
+$ jasmine
 ```
 
-### Info
+or
+
+```
+$ npm run test:jas
+```
+
+### Addition test info
 
 ##### Run single test
 
@@ -29,5 +35,6 @@ xdescribe
 ```
 
 ##### Todo:
+
 * TypeScript
 * Karma
