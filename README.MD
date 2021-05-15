@@ -11,7 +11,7 @@ npm i bubble-gum
 ## Run tests
 
 ```
-$ jasmine
+$ npm run test
 ```
 
 or
@@ -37,4 +37,4 @@ xdescribe
 ##### Todo:
 
 * TypeScript
-* Karma
+* Github action for test
