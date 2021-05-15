@@ -11,7 +11,7 @@ npm i bubble-gum
 ## Run tests
 
 ```
-$ npm run test
+$ npm run test:ui
 ```
 
 or

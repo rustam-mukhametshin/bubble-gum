@@ -4,7 +4,7 @@
   "description": "Js tests",
   "main": "index.js",
   "scripts": {
-    "test": "karma start",
+    "test:ui": "karma start",
     "test:jas": "jasmine"
   },
   "repository": {
