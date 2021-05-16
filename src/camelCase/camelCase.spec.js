@@ -1,4 +1,6 @@
 const {camel} = require("./camelCase");
+const path = require('path');
+
 const tasks = [
     {
         test: 'usageNotes',
@@ -18,7 +20,7 @@ const tasks = [
     },
 ];
 
-xdescribe('camelCase', () => {
+xdescribe(path.basename(__filename), () => {
     for (let task of tasks) {
         it(`should return '${task.solution}'`, done => {
             expect(camel(task.test))
